@@ -48,6 +48,15 @@ namespace BookStore.API.Repository
             var book = await _context.Books.FindAsync(bookId);
             return _mapper.Map<BookModel>(book);
         }
+        public async Task<List<BookModel>> GetBookByName(string book)
+        {
+            //if (!string.IsNullOrEmpty(book))
+            //{
+            //    var records = await _context.Books.Where(x => x.Title == book).ToListAsync();
+            //}
+            var records = await _context.Books.Where(x => x.Title == book).ToListAsync();
+            return _mapper.Map<List<BookModel>>(records);
+        }
         public async Task<int> AddBookAsync(BookModel bookModel)
         {
             var book = new Books()

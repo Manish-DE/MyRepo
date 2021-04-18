@@ -27,6 +27,17 @@ namespace BookStore.API.Controller
             return Ok(books);
         }
 
+        [HttpGet("{search:alpha}")]
+        public async Task<IActionResult> GetBookByName(string name)
+        {
+            var books = await _bookRepository.GetBookByName(name);
+            if (books == null)
+            {
+                return NotFound();
+            }
+            return Ok(books);
+        }
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetBookById([FromRoute]int id)
         {
