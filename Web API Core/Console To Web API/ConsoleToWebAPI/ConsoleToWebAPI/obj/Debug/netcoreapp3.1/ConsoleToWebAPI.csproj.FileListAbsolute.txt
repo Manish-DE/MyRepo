@@ -1,0 +1,13 @@
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.exe
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.deps.json
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.runtimeconfig.json
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.runtimeconfig.dev.json
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.dll
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.pdb
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.csprojAssemblyReference.cache
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.AssemblyInfo.cs
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.dll
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.pdb
+C:\Users\manis\source\repos\Web API Core\Console To Web API\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.genruntimeconfig.cache

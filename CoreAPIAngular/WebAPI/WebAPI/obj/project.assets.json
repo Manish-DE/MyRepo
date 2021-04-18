@@ -8498,11 +8498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manis\\source\\repos\\CoreAPIAngular\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\manis\\source\\repos\\MyRepo\\CoreAPIAngular\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\manis\\source\\repos\\CoreAPIAngular\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\manis\\source\\repos\\MyRepo\\CoreAPIAngular\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\manis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manis\\source\\repos\\CoreAPIAngular\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\manis\\source\\repos\\MyRepo\\CoreAPIAngular\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8517,6 +8517,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "projectReferences": {}
         }
       },
@@ -8528,6 +8529,7 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
         "dependencies": {
           "Microsoft.AspNet.WebApi.Core": {
             "target": "Package",
@@ -8630,7 +8632,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },
